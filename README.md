@@ -1,5 +1,10 @@
-# npm install
+## execute in the terminal:
+
+```js
+npm install
+```
 
 then
-
-# npm start
+```js
+npm start
+```
