@@ -11,4 +11,4 @@ npm start
 
 ## Preview
 
-https://budget-app-gamma-six.vercel.app/
+https://budgetapp0096.vercel.app/
